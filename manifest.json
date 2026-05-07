@@ -1,0 +1,23 @@
+{
+  "name": "Ozbolat Lab BSC Booking",
+  "short_name": "BSC Booking",
+  "description": "Biosafety cabinet booking for the Ozbolat Lab",
+  "start_url": "/olab_booking/",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#0f6e56",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
